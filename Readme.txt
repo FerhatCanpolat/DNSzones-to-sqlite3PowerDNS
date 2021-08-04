@@ -36,7 +36,7 @@ The script is called with the config.ini. The domain list is being updated. For 
 					list_of_domains = DomainTxtFile.txt	
 
 
--c_db		f no sqlite3 database exists, this script uses this argument to create an empty sqlite3 database with the format requested by PowerDNS. The name for the database is entered in the config.ini under the section [database]
+-c_db		if no sqlite3 database exists, this script uses this argument to create an empty sqlite3 database with the format requested by PowerDNS. The name for the database is entered in the config.ini under the section [database]
 
 -add_z		Updates or adds the entries of the BIND zone files to a database. The path to the BIND zone files is given in the config.ini under [zone]
 
