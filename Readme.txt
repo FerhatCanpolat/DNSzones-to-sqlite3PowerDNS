@@ -11,7 +11,7 @@ The script is called with the config.ini. The domain list is being updated. For 
 
 
 #######################
-####  7 Parameter  ####
+####  6 Parameter  ####
 #######################
 
 -c		Information for config.ini
